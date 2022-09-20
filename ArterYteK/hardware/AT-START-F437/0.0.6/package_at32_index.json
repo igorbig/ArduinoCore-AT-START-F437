@@ -4,9 +4,9 @@
       "name": "ArterYteK",
       "maintainer": "ArterYteK",
       "email": "",
-      "websiteURL": "https://github.com/ArterYteK/ArduinoCore-AT32F4/",
+      "websiteURL": "https://github.com/igorbig/MYArterYteK/edit/main/ArterYteK/hardware/AT-START-F437/",
       "help": {
-        "online": "https://github.com/ArterYteK/ArduinoCore-AT32F4/"
+        "online": "https://github.com/igorbig/MYArterYteK/edit/main/ArterYteK/hardware/AT-START-F437"
       },
       "platforms": [
         {
@@ -14,7 +14,7 @@
           "architecture": "at32f437",
           "version": "0.0.6",
           "category": "Contributed",
-          "url": "https://github.com/ArterYteK/ArduinoCore-AT32F4/archive/refs/heads/main.zip",
+          "url": https://github.com/igorbig/MYArterYteK/edit/main/ArterYteK/hardware/AT-START-F437/archive/refs/heads/main.zip",
           "archiveFileName": "ArduinoCore-AT32F4-main.zip",
           "help": {
               "online": ""
@@ -66,7 +66,7 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/ArterYteK/ArduinoCore-AT32F4/releases/download/0.0.1/Artery_ISP_Console_Win_V3.0.01.zip",
+              "url": "https://github.com/igorbig/MYArterYteK/edit/main/ArterYteK/hardware/AT-START-F437/ArduinoCore-AT32F4/releases/download/0.0.1/Artery_ISP_Console_Win_V3.0.01.zip",
               "archiveFileName": "Artery_ISP_Console_Win_V3.0.01.zip",
               "size": "3890476",
               "checksum": "SHA-256:785979348d5c6b9451650d2ba22233825f362d46adfdfb1e4794e3866b4d034f"
