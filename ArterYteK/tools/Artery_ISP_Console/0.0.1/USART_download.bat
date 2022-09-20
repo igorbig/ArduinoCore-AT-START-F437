@@ -1,0 +1,2 @@
+AT32_ISP_Console.exe -com --pn 23 --br 115200 --db 8 --pr EVEN --to 5 -p --dfap --depp -e --all -d --a 08000000 --fn c:\test_binhex\D_10.bin --v --o -usd --set --fn c:\test_binhex\UserSystemData.bin -p --efap
+pause

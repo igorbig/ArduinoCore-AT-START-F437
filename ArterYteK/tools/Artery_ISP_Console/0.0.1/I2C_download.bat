@@ -1,0 +1,2 @@
+AT32_ISP_Console.exe -i2c --pn 34 --addr 3C --rate 400000 --dc 0 -p --dfap --depp -e --all -d --a 08000000 --fn c:\test_binhex\test_64k.bin --v --o -usd --set --fn c:\test_binhex\UserSystemData.bin -p --efap
+pause
