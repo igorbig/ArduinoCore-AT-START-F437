@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "ArterYteK",
+      "name": "MYArterYteK",
       "maintainer": "ArterYteK",
       "email": "",
       "websiteURL": "https://github.com/igorbig/MYArterYteK/edit/main/ArterYteK/hardware/AT-START-F437/",
@@ -14,7 +14,7 @@
           "architecture": "at32f437",
           "version": "0.0.6",
           "category": "Contributed",
-          "url": https://github.com/igorbig/MYArterYteK/ArterYteK/archive/main.zip",
+          "url": https://github.com/igorbigMYArterYteK/ArterYteK/hardware/AT-START-F437/0.0.6/main.zip",
           "archiveFileName": "AT-START-F437.zip",
           "help": {
               "online": ""
