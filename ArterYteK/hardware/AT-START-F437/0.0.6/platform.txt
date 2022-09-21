@@ -1,5 +1,5 @@
 ##==============================================##
-name=WeActStudio AT32F403A Boards
+name=MYArterYteK AT-START-F437 Boards
 version=0.0.6
 ##==============================================##
 
