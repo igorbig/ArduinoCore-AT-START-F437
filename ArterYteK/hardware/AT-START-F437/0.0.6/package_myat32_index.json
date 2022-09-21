@@ -1,12 +1,12 @@
 {
   "packages": [
     {
-      "name": "ArterYteK",
-      "maintainer": "ArterYteK",
+      "name": "MYArterYteK",
+      "maintainer": "MYArterYteK",
       "email": "",
-      "websiteURL": "https://github.com/igorbig/MYArterYteK/edit/main/ArterYteK/hardware/AT-START-F437/",
+      "websiteURL": "https://github.com/igorbig/MYArterYteK/",
       "help": {
-        "online": "https://github.com/igorbig/MYArterYteK/edit/main/ArterYteK/hardware/AT-START-F437"
+        "online": "https://github.com/igorbig/MYArterYteK/"
       },
       "platforms": [
         {
@@ -15,7 +15,7 @@
           "version": "0.0.6",
           "category": "Contributed",
           "url": "https://github.com/igorbig/MYArterYteK/files/9615850/main.zip",
-          "archiveFileName": "ArduinoCore-AT32F4-main.zip",
+          "archiveFileName": "AT-START-F437-main.zip",
           "help": {
               "online": ""
             },
@@ -31,7 +31,7 @@
               "version": "11.2.1-1.2"
             },
             {
-              "packager": "ArterYteK",
+              "packager": "MYArterYteK",
               "name": "Artery_ISP_Console",
               "version": "0.0.1"
             }
