@@ -1,2 +1,0 @@
-AT32_ISP_Console.exe -dfu -p --dfap --depp -enspim --ft 2 --fs 16 --fda 1000000 --remap 1 -e --all -d --a 08400000 --fn d:\test_binhex\test_256k.bin --v --o -usd --set --fn d:\test_binhex\UserSystemData.bin -p --efap
-pause
